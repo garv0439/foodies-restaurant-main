@@ -1,1 +1,1 @@
-https://parshwa-optics.vercel.app/
+https://foodies-restaurant-main-nine.vercel.app/
